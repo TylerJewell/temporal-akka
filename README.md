@@ -26,8 +26,8 @@ The specifications the port was generated from are in
 
 📉 1,654 Go lines → **673 Java lines**<br>
 📁 6 files → **6 files**<br>
-⚡ 172.0 → **7.4** microseconds to read back a 300-entry record<br>
-🎯 12 of 12 comparisons agreeing → **12 of 12**<br>
+⚡ 159.8 → **7.6** microseconds to read back a 300-entry record<br>
+🎯 13 of 13 comparisons agreeing → **13 of 13**<br>
 🧾 18 of 18 checks failing when the rule they name is broken → **18 of 18**
 
 Full method and the numbers that did *not* make this list:
@@ -37,9 +37,9 @@ Full method and the numbers that did *not* make this list:
 
 ## What it took to build
 
-⏱️ **1.6 hours** from the first command to the published repository, **1.6** of them active<br>
-💬 **397** exchanges with the model<br>
-✍️ **456,319** tokens written by the model, **128,410,040** counting everything sent and re-sent<br>
+⏱️ **1.9 hours** from the first command to the published repository, **1.9** of them active<br>
+💬 **488** exchanges with the model<br>
+✍️ **531,503** tokens written by the model, **182,540,347** counting everything sent and re-sent<br>
 🙋 **0** questions to a human<br>
 🧪 **43** tests
 
